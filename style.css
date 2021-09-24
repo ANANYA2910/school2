@@ -1,0 +1,35 @@
+body {
+    
+    background: linear-gradient(#FF80AB 50%, #00B0FF 100%);
+    
+}
+
+.announcement {
+    background-color: beige;
+
+}
+#school_main_heading{
+    
+font-size:20px;
+font-family:cursive;
+}
+# WORLD_WIDE_ACHIVER_img{
+height:50px;
+width:50px;
+}
+# WORLD_WIDE_ACHIVER_title{
+font-size:50px;
+font-family:cursive;
+}
+
+#EDUCATION_WORLD_2016-17_AWARD_img {
+height:554px;
+width:800px;
+}
+# EDUCATION_WORLD_2016-17_AWARD_title{
+font-size:50px;
+font-family:cursive;
+}
+
+
+
